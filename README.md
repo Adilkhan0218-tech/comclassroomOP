@@ -1,2 +1,2 @@
 # comclassroomOP
-# This is my first git fork.
+# This is my first time using git.
